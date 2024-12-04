@@ -1,2 +1,2 @@
 # Load-Palletization
-Contains greedy heuristic for load palletization problem
+Aircraft scheduling problem with multiple constraints
